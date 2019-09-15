@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GaugeRun" type="executeSpecs" factoryName="Gauge Execution">
+    <setting name="environment" value="" />
+    <setting name="specsToExecute" value="" />
+    <setting name="tags" value="" />
+    <setting name="parallelNodes" value="" />
+    <setting name="execInParallel" value="false" />
+    <setting name="programParameters" value="" />
+    <setting name="workingDirectory" value="" />
+    <setting name="moduleName" value="" />
+    <envMap />
+    <setting name="rowsRange" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
