@@ -44,4 +44,14 @@ public class StepImplementation {
         }
         return count;
     }
+
+    @Step("Check TeamCity Integration")
+    public void GaugeIntegration() {
+
+        System.out.println("Gauge Team City Integration successful");
+        System.out.println("Gauge Team City Integration successful");
+        System.out.println("Gauge Team City Integration successful");
+        System.out.println("Gauge Team City Integration successful");
+        System.out.println("Gauge Team City Integration successful");
+    }
 }

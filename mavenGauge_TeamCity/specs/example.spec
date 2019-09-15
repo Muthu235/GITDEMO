@@ -14,6 +14,7 @@ To execute this specification, run
 tags: single word
 
 * The word "gauge" has "3" vowels.
+* Check TeamCity Integration
 
 
 ## Vowel counts in multiple word
