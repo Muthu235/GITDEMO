@@ -1,4 +1,4 @@
-package Maven;
+package mavenGauge_TC;
 
 import static org.junit.Assert.assertTrue;
 
@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
+        System.out.println("mavenGauge_TC");
         assertTrue( true );
-        System.out.println("SUCCESSFULL INTEGRATION ON TEAM CITY WITH MAVEN PROJECT");
     }
 }
