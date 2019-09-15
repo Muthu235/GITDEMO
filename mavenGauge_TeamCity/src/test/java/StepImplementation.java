@@ -53,5 +53,8 @@ public class StepImplementation {
         System.out.println("Gauge Team City Integration successful");
         System.out.println("Gauge Team City Integration successful");
         System.out.println("Gauge Team City Integration successful");
+        System.out.println("Gauge Team City Integration successful");
+        System.out.println("Gauge Team City Integration successful");
+        System.out.println("Gauge Team City Integration successful");
     }
 }
